@@ -8,7 +8,7 @@
 
 
     <GridView
-        android:id="@+id/baseGridView"
+        android:id="@+id/baseGridViewTest"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
